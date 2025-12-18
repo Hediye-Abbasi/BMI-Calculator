@@ -15,6 +15,14 @@ This project was implemented according to the requirements of Workshop 11 (Advan
 - Java
 - Java Swing (JFrame, JPanel, JButton, JTextField, JTextArea)
 
+## Screenshots
+
+### Welcome Page
+![Welcome Page](Welcome-Page.png)
+
+### Calculator Page
+![Calculator Page](Calculator-Page.png)
+
 ## How to Run
 ```bash
 java BMIApp.java
